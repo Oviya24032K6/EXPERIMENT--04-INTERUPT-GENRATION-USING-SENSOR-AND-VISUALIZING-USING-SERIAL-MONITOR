@@ -189,7 +189,7 @@ PUTCHAR_PROTOTYPE {
  
  
  ## Circuit board :
- ![Uploading image.png…]()
+ ![image](https://github.com/user-attachments/assets/d0bcd19c-83a4-4136-99a1-b849929636d6)
 
  
  
